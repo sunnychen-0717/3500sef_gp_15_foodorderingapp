@@ -11,7 +11,7 @@ Chen Cheuk Ngai 13822291
 Ng Chun Pong 13319138   
 Github link: https://github.com/sunnychen-0717/3500sef_gp_15_foodorderingapp  
 
-# Project introduction:  
+# Project introduction  
 In this project, we create a food ordering and tracking app can let the user create their own account. Then they can browse the menu to place the order to buy the food. Then restaurant will base on the order producing the food and pass it to delivery person to deliver the food to the customers
 
 Project file intro:
