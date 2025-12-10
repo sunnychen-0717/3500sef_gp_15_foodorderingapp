@@ -3,7 +3,7 @@
 
 
 ## Project group infomation  
-Project name:food ordering and tracking app  
+Project name: Food Ordering And Tracking App  
 App name: TastyBytes  
 Group no: 15  
 Group member:  
@@ -59,9 +59,9 @@ Second please make sure you have alreadly download Node.js, if not, please downl
 2. Go to "File" > "Open Folder".  
 3. Select the folder named "Foodorderdelivery" (the one containing package.json).
 4. Open the Integrated Terminal (Ctrl + `)
-5. input the comand: npm install
-6. input the comand: npm install tailwindcss@3.4.17 postcss autoprefixer
-7. input the comand: npm run dev
+5. Input the comand: npm install
+6. Input the comand: npm install tailwindcss@3.4.17 postcss autoprefixer
+7. Input the comand: npm run dev
 Then it will show the output run it on the:http://localhost:5173 and click it
 
 # User guides in the app
