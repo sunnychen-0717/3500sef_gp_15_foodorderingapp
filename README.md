@@ -4,6 +4,7 @@
 
 ## Project group infomation  
 Project name:food ordering and tracking app  
+App name: TastyBytes  
 Group no: 15  
 Group member:  
 Wang ChenXi (13485478)(Group Leader)     
